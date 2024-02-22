@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ranjit Singh
 - 👀 I’m interested in learning new things everyday
-- 🌱 I’m currently learning react-native
 - 💞️ I’m looking to collaborate on various project related to javascript and C#
 - 📫 You can reach me at ranjits201@gmail.com
 
